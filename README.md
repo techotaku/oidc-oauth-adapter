@@ -1,6 +1,6 @@
 # oidc-oauth-adapter
 
-An adapter, helps legacy OAuth system connect to OpenId Connect service.
+An adapter, helps legacy OAuth system connect to OpenID Connect service.
 
 ## Security Warning
 
